@@ -1,0 +1,32 @@
+body{
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("images/img.jpg");
+
+  /* Set a specific height */
+  height:700px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header{
+    font-family: cursive;
+    font-size: 8em;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+.container{
+    background-color:gray;
+    width: 1800px;
+    
+}
